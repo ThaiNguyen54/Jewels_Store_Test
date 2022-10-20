@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d04d2246.css",
+    "main.js": "/static/js/main.05e67081.js",
+    "static/js/787.72907352.chunk.js": "/static/js/787.72907352.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/hero-bg.png": "/static/media/hero-bg.7c19b680fe452257688b.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/person2.png": "/static/media/person2.c15ec985744f42811ddb.png",
+    "static/media/background1.avif": "/static/media/background1.af7f8b508e527874bcaa.avif",
+    "static/media/jewelleryLogo.png": "/static/media/jewelleryLogo.91e4e3ba2be0d3e071ab.png",
+    "static/media/about.avif": "/static/media/about.edb3c57969e1bc954e6e.avif",
+    "static/media/menu.png": "/static/media/menu.3f6bb5bc73403ef4adf4.png",
+    "static/media/contactleftside.avif": "/static/media/contactleftside.6c61a5d39b05313a7202.avif",
+    "static/media/person3.jfif": "/static/media/person3.f498cdf7b79edf7aa55f.jfif",
+    "index.html": "/index.html",
+    "main.d04d2246.css.map": "/static/css/main.d04d2246.css.map",
+    "main.05e67081.js.map": "/static/js/main.05e67081.js.map",
+    "787.72907352.chunk.js.map": "/static/js/787.72907352.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d04d2246.css",
+    "static/js/main.05e67081.js"
+  ]
+}
